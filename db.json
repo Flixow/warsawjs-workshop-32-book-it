@@ -1,0 +1,1657 @@
+{
+  "hotels": [
+    {
+      "id": "d39d98ba-d8fd-4dd9-bb6c-5827b83417ea",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "voluptatem"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Est ut quas aut nesciunt fugit qui porro qui.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Inventore autem dolore.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Magnam nobis aut vitae reprehenderit qui.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Delectus voluptatibus impedit eveniet qui sit qui quo fugiat corrupti.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Non ipsum autem ab accusantium et sunt.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Aut assumenda in nobis vel reprehenderit.",
+          "tag": "ad quae quis",
+          "highlights": true
+        },
+        {
+          "text": "Excepturi quia consequatur nesciunt molestiae nostrum vel a perspiciatis.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Inventore vel tempora est aut doloribus illum molestiae.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Doloribus debitis sint quaerat est aut provident.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Quaerat ab incidunt ut qui debitis corporis.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Quis natus provident.",
+          "tag": "explicabo consequatur saepe",
+          "highlights": true
+        },
+        {
+          "text": "Voluptate eum quis dolor consectetur laborum porro repellendus voluptatibus.",
+          "tag": "magnam deleniti velit",
+          "highlights": false
+        },
+        {
+          "text": "Et voluptatibus enim rem est dolores est animi.",
+          "tag": "dolor corporis error",
+          "highlights": false
+        },
+        {
+          "text": "Laudantium asperiores odit sint ipsa inventore sed.",
+          "tag": "asperiores culpa voluptas",
+          "highlights": false
+        },
+        {
+          "text": "Nulla deserunt architecto minima.",
+          "tag": null,
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "46632 Łukasiewicz Port, 50-730, Grecja",
+        "centre": "2.5 km"
+      },
+      "price": {
+        "amount": "7810",
+        "breakfast": true,
+        "currency": "C$"
+      },
+      "rating": {
+        "average": "9.1",
+        "reviews": "1991"
+      },
+      "room": "DOUBLE",
+      "title": "Sleek Steel Bacon"
+    },
+    {
+      "id": "2aac1f08-5626-4f62-a15e-1918b7f1d603",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "earum"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Reprehenderit distinctio est error harum.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Iure ab assumenda qui quis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Architecto omnis nihil ex quod.",
+          "tag": "sequi non ducimus",
+          "highlights": true
+        },
+        {
+          "text": "Odit odit autem iusto.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Qui possimus consectetur corrupti repellat quas et.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Dolorem et voluptatem aliquam.",
+          "tag": "consequatur voluptas harum",
+          "highlights": false
+        },
+        {
+          "text": "Cumque libero harum commodi dolor saepe nesciunt sit a.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Delectus nam eum nulla.",
+          "tag": "veritatis libero voluptas",
+          "highlights": true
+        },
+        {
+          "text": "Dicta sapiente placeat.",
+          "tag": "ut sint pariatur",
+          "highlights": false
+        },
+        {
+          "text": "Numquam maiores molestias quia dolores consequatur voluptates dolorem libero.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Nihil reprehenderit eveniet officiis et quas tempora architecto id.",
+          "tag": "earum enim fuga",
+          "highlights": true
+        },
+        {
+          "text": "Rem porro accusantium deserunt.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ut ut amet sed necessitatibus.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Veritatis consequatur quia occaecati nostrum inventore soluta.",
+          "tag": "atque incidunt eum",
+          "highlights": false
+        },
+        {
+          "text": "Ipsa quis molestias delectus et facilis sed nam.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Et quo ad maiores commodi deleniti sunt est et.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Velit aut sit sit quas id temporibus velit est.",
+          "tag": "ratione veniam qui",
+          "highlights": false
+        },
+        {
+          "text": "Praesentium dolore dolor magni nam.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Voluptatum sit aspernatur ducimus.",
+          "tag": null,
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "393 Orestes Roads, 03-779, Hiszpania",
+        "centre": "1 km"
+      },
+      "price": {
+        "amount": "2190",
+        "breakfast": false,
+        "currency": "₫"
+      },
+      "rating": {
+        "average": "8.8",
+        "reviews": "7192"
+      },
+      "room": "SINGLE",
+      "title": "Handcrafted Plastic Keyboard"
+    },
+    {
+      "id": "c797c2c7-86ca-404c-800e-73138f5efdfd",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "ipsa"
+      },
+      "demand": "MEDIUM",
+      "insights": [],
+      "location": {
+        "address": "633 Leila Rue, 01-942, Australia",
+        "centre": "1.9 km"
+      },
+      "price": {
+        "amount": "5230",
+        "breakfast": true,
+        "currency": "ман"
+      },
+      "rating": {
+        "average": "8.6",
+        "reviews": "119"
+      },
+      "room": "DOUBLE",
+      "title": "Sleek Steel Tuna"
+    },
+    {
+      "id": "d9bd7d8d-6950-4b1a-878b-8bce88e8a013",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "quas"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Qui repellendus quae distinctio.",
+          "tag": "quod expedita vel",
+          "highlights": true
+        },
+        {
+          "text": "Optio vel saepe officia dolorem perspiciatis eum.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Dolor qui qui.",
+          "tag": "libero facere molestiae",
+          "highlights": true
+        },
+        {
+          "text": "Debitis quia rem laborum.",
+          "tag": "consequatur commodi consequuntur",
+          "highlights": false
+        },
+        {
+          "text": "Aliquid dolorem cum recusandae dolor.",
+          "tag": "sunt explicabo culpa",
+          "highlights": true
+        },
+        {
+          "text": "Est nobis autem.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Rerum debitis aliquid fugit.",
+          "tag": "minima dolore dolores",
+          "highlights": true
+        },
+        {
+          "text": "Consectetur aut quia qui possimus consequatur ipsam aliquid.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ipsum minima voluptas quam aperiam.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Deleniti veniam in at ex molestiae.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Sapiente vero sequi saepe tenetur tenetur ipsum et porro.",
+          "tag": "provident molestiae est",
+          "highlights": false
+        },
+        {
+          "text": "Qui suscipit consequatur sequi occaecati et quas nesciunt veniam.",
+          "tag": null,
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "29757 Reginald Island, 71-844, Salwador",
+        "centre": "2.8 km"
+      },
+      "price": {
+        "amount": "2850",
+        "breakfast": false,
+        "currency": "S"
+      },
+      "rating": {
+        "average": "8.5",
+        "reviews": "2178"
+      },
+      "room": "DOUBLE",
+      "title": "Incredible Soft Bike"
+    },
+    {
+      "id": "54351367-c911-46a4-90e3-240775824863",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "placeat"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Voluptatum aperiam sit deserunt autem ab natus.",
+          "tag": "cumque recusandae excepturi",
+          "highlights": true
+        },
+        {
+          "text": "Officia et totam.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Doloribus et repellendus quae nostrum voluptas harum.",
+          "tag": "molestiae quis eum",
+          "highlights": false
+        },
+        {
+          "text": "Voluptate occaecati animi.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Qui quisquam consequatur est.",
+          "tag": "molestias deserunt libero",
+          "highlights": true
+        },
+        {
+          "text": "Magni illo dolorem.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Nemo id pariatur et voluptate ab quibusdam.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Similique voluptatum ea quis officiis autem ea animi.",
+          "tag": "quaerat nobis illum",
+          "highlights": true
+        },
+        {
+          "text": "Suscipit autem in qui fuga debitis suscipit perferendis magnam ut.",
+          "tag": "eum aut sed",
+          "highlights": true
+        },
+        {
+          "text": "Expedita autem dolores nam adipisci perspiciatis.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Quis deleniti reiciendis nemo dignissimos aspernatur voluptatem voluptas eius quo.",
+          "tag": "consectetur labore aut",
+          "highlights": false
+        },
+        {
+          "text": "Recusandae et aperiam et omnis.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Magni in molestias et.",
+          "tag": "dolores ipsam omnis",
+          "highlights": true
+        },
+        {
+          "text": "Dolor minima atque.",
+          "tag": "maxime illum sit",
+          "highlights": true
+        },
+        {
+          "text": "Ut iusto et autem.",
+          "tag": "facilis labore saepe",
+          "highlights": false
+        },
+        {
+          "text": "Debitis hic illo rerum saepe asperiores.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quas qui autem enim velit sit.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Commodi eligendi ut nam eum ut.",
+          "tag": "nesciunt unde molestiae",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "329 Wincenty Station, 49-809, Kuba",
+        "centre": "2.2 km"
+      },
+      "price": {
+        "amount": "1330",
+        "breakfast": false,
+        "currency": "R$"
+      },
+      "rating": {
+        "average": "8.3",
+        "reviews": "7335"
+      },
+      "room": "FAMILY",
+      "title": "Ergonomic Soft Cheese"
+    },
+    {
+      "id": "5ab04c40-b3f8-4792-8d76-c5e8202968be",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "accusamus"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Repudiandae qui dolorum ipsum.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Dolor voluptatum iste perspiciatis tenetur saepe.",
+          "tag": "omnis qui consequatur",
+          "highlights": false
+        },
+        {
+          "text": "Dolorem quos et earum minima doloremque ratione voluptatem.",
+          "tag": "natus doloribus vitae",
+          "highlights": false
+        },
+        {
+          "text": "Dolor dicta accusantium blanditiis dicta deleniti dolores autem occaecati dolorem.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Perspiciatis expedita facere exercitationem.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Repellendus magnam saepe hic soluta vero quia.",
+          "tag": "doloribus eius possimus",
+          "highlights": true
+        },
+        {
+          "text": "Voluptatem nesciunt debitis sunt minima hic suscipit sunt neque.",
+          "tag": "dolore aut officia",
+          "highlights": false
+        },
+        {
+          "text": "Dolores cumque minima aut dolorem officiis et explicabo.",
+          "tag": "qui quo quia",
+          "highlights": false
+        },
+        {
+          "text": "Consequuntur odit perspiciatis vitae perferendis.",
+          "tag": "doloribus doloribus quos",
+          "highlights": false
+        },
+        {
+          "text": "Eius suscipit ex.",
+          "tag": null,
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "6531 Gawroński Court, 16-329, Chile",
+        "centre": "2 km"
+      },
+      "price": {
+        "amount": "1360",
+        "breakfast": false,
+        "currency": "Ft"
+      },
+      "rating": {
+        "average": "8",
+        "reviews": "6224"
+      },
+      "room": "DOUBLE",
+      "title": "Incredible Steel Chair"
+    },
+    {
+      "id": "1d7801c3-94ff-4a8c-8191-fbe427cbdd15",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "optio"
+      },
+      "demand": "HIGH",
+      "insights": [
+        {
+          "text": "Et quia ipsa dolorem nulla expedita.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Aut officia facilis laborum blanditiis placeat.",
+          "tag": "et quod sint",
+          "highlights": true
+        },
+        {
+          "text": "Commodi id officiis vel eos sint recusandae repellendus.",
+          "tag": "suscipit ex tenetur",
+          "highlights": true
+        },
+        {
+          "text": "Nihil ducimus et non nesciunt.",
+          "tag": "quia consequatur corporis",
+          "highlights": false
+        },
+        {
+          "text": "Nulla impedit non est nihil est qui ut iste asperiores.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ut corporis ut sunt veniam adipisci est distinctio laborum harum.",
+          "tag": "laborum eius consectetur",
+          "highlights": false
+        },
+        {
+          "text": "Soluta consequatur qui distinctio modi.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Voluptates veniam quia vitae minus asperiores nisi ut possimus voluptas.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quia facere consequatur quasi error quia dolore hic quis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Facere omnis explicabo enim.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Iste recusandae et ea dolor consequatur consequatur molestiae.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quod ab harum et doloribus aut.",
+          "tag": "sapiente blanditiis illum",
+          "highlights": false
+        },
+        {
+          "text": "Et expedita atque corporis delectus nihil odit corrupti.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Vel quos voluptatem sint et ut.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Occaecati a aut ratione adipisci quod est explicabo.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ut in omnis debitis error nam.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Dolorem qui iure.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Neque commodi nihil omnis et iusto ex voluptatem omnis omnis.",
+          "tag": null,
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "32501 Florian Shores, 71-306, Dania",
+        "centre": "1.8 km"
+      },
+      "price": {
+        "amount": "8490",
+        "breakfast": false,
+        "currency": "ƒ"
+      },
+      "rating": {
+        "average": "6.8",
+        "reviews": "1345"
+      },
+      "room": "DOUBLE",
+      "title": "Gorgeous Frozen Computer"
+    },
+    {
+      "id": "0c6bdf97-d175-4c28-ab5d-d4ef756f79e9",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "tenetur"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Omnis eos officiis dolorem.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Nobis natus officia vel.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Sit rem est aperiam.",
+          "tag": "aliquam doloremque necessitatibus",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "57545 Agaton Viaduct, 70-007, Bangladesz",
+        "centre": "1.6 km"
+      },
+      "price": {
+        "amount": "1630",
+        "breakfast": true,
+        "currency": "B/."
+      },
+      "rating": {
+        "average": "6.7",
+        "reviews": "6500"
+      },
+      "room": "FAMILY",
+      "title": "Generic Fresh Shoes"
+    },
+    {
+      "id": "093a85cf-e0a4-430c-ba4e-1e6e2bd5dc30",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "aut"
+      },
+      "demand": "MEDIUM",
+      "insights": [],
+      "location": {
+        "address": "241 Borys Union, 15-879, Trynidad i Tobago",
+        "centre": "2.9 km"
+      },
+      "price": {
+        "amount": "8910",
+        "breakfast": true,
+        "currency": "$"
+      },
+      "rating": {
+        "average": "6.5",
+        "reviews": "6510"
+      },
+      "room": "DOUBLE",
+      "title": "Handmade Concrete Towels"
+    },
+    {
+      "id": "a6cffd3c-0d4a-47ca-9469-b2e0e917b3af",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "sit"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Dicta voluptatem et ea.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Iusto molestiae necessitatibus dolore.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Autem sed molestiae amet similique vitae voluptatibus facilis nesciunt qui.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Recusandae velit suscipit possimus.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Magnam at ut voluptatem perspiciatis.",
+          "tag": "voluptatibus atque omnis",
+          "highlights": true
+        },
+        {
+          "text": "Ipsum odio impedit possimus corrupti.",
+          "tag": "fugit veritatis quo",
+          "highlights": false
+        },
+        {
+          "text": "Iure nemo illum laborum saepe occaecati et dignissimos sunt.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Et ab tempora aliquam magnam sit.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Aperiam omnis deleniti consequuntur.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Aut pariatur doloremque qui totam quo dolor laboriosam omnis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Delectus quis voluptas ea explicabo sunt architecto.",
+          "tag": "esse numquam culpa",
+          "highlights": false
+        },
+        {
+          "text": "Voluptas consequatur illum illo enim praesentium.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ab veniam animi molestiae ut deserunt.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Facilis voluptatibus iure autem perspiciatis est incidunt alias et est.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Qui consequatur et aut sunt qui nostrum sit est.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Sunt provident sed cupiditate magni et nihil.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Consequatur cumque eum.",
+          "tag": null,
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "48330 Orłowski Ridges, 79-665, Estonia",
+        "centre": "2.9 km"
+      },
+      "price": {
+        "amount": "6890",
+        "breakfast": false,
+        "currency": "Lek"
+      },
+      "rating": {
+        "average": "6.5",
+        "reviews": "698"
+      },
+      "room": "FAMILY",
+      "title": "Awesome Fresh Car"
+    },
+    {
+      "id": "a7324db7-7949-4c5e-ae5e-6d4906995f58",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "et"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Possimus et asperiores dolor similique.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Fuga error unde officiis qui voluptates eaque id eveniet.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Consequuntur id reiciendis et atque quo placeat hic aut.",
+          "tag": "nihil quae tempora",
+          "highlights": false
+        },
+        {
+          "text": "Et qui illum pariatur voluptatem sequi cum suscipit veniam.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Odio error tenetur.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Et sit rerum autem.",
+          "tag": "quia veniam repellendus",
+          "highlights": true
+        },
+        {
+          "text": "Voluptas facere et itaque asperiores commodi voluptas.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Quidem voluptatibus qui et dolor corrupti qui.",
+          "tag": "distinctio commodi ratione",
+          "highlights": false
+        },
+        {
+          "text": "Ullam officiis optio.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Placeat et iste.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Autem ipsa totam qui est officiis excepturi dolorem aliquid id.",
+          "tag": "dolorum voluptates ut",
+          "highlights": true
+        },
+        {
+          "text": "Voluptate possimus qui labore.",
+          "tag": "sapiente temporibus mollitia",
+          "highlights": false
+        },
+        {
+          "text": "Facilis voluptatibus optio quia laboriosam inventore odit quibusdam facilis error.",
+          "tag": "quibusdam repellendus eos",
+          "highlights": false
+        },
+        {
+          "text": "Tempora deserunt rerum similique.",
+          "tag": "est officiis et",
+          "highlights": true
+        },
+        {
+          "text": "Voluptas aliquid occaecati ipsum sunt voluptates ea ipsa.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Cupiditate tenetur qui.",
+          "tag": "molestiae ut explicabo",
+          "highlights": false
+        },
+        {
+          "text": "Sit dolorem cumque ratione laborum rerum quae omnis quisquam nam.",
+          "tag": "consequuntur cumque laborum",
+          "highlights": true
+        },
+        {
+          "text": "Est et consectetur est voluptatem nostrum animi quia quam omnis.",
+          "tag": "cupiditate id iusto",
+          "highlights": true
+        },
+        {
+          "text": "Molestiae unde voluptate et ut qui.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Voluptatem quo sit provident quod quia deleniti.",
+          "tag": "consequuntur et odit",
+          "highlights": true
+        },
+        {
+          "text": "Perspiciatis minus sapiente labore officiis non sed nihil.",
+          "tag": "corporis dolor saepe",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "1784 Włodarczyk Center, 70-383, Gwatemala",
+        "centre": "2.7 km"
+      },
+      "price": {
+        "amount": "9720",
+        "breakfast": false,
+        "currency": "CHF"
+      },
+      "rating": {
+        "average": "6.3",
+        "reviews": "7342"
+      },
+      "room": "SINGLE",
+      "title": "Ergonomic Cotton Sausages"
+    },
+    {
+      "id": "89d261d3-2731-4e72-bbf6-6b09cf2ee7dc",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "voluptatem"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Et occaecati veniam repudiandae eos.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Sit laboriosam ut itaque corrupti.",
+          "tag": "labore quis ipsum",
+          "highlights": true
+        },
+        {
+          "text": "Repellat maxime aut nostrum dolor molestias qui tempore consequatur officiis.",
+          "tag": "asperiores hic aperiam",
+          "highlights": false
+        },
+        {
+          "text": "Rerum quos nam sed in quos deserunt natus qui.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Sit asperiores deserunt.",
+          "tag": "quod ut aut",
+          "highlights": false
+        },
+        {
+          "text": "Sit est enim vel rem iusto incidunt dolorum architecto.",
+          "tag": "tempore quidem architecto",
+          "highlights": false
+        },
+        {
+          "text": "Ducimus rerum voluptas voluptatem harum quo eos dolorum.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Repellendus aspernatur blanditiis veniam molestiae dolorum temporibus et.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Natus eum quaerat sed quasi et enim.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Non fugit quae dolor voluptates vero.",
+          "tag": "qui voluptatem voluptatem",
+          "highlights": true
+        },
+        {
+          "text": "Et libero sed illum quia voluptatem voluptatibus et.",
+          "tag": null,
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "7725 Tacjana Unions, 19-495, Polska",
+        "centre": "2 km"
+      },
+      "price": {
+        "amount": "8850",
+        "breakfast": false,
+        "currency": "$"
+      },
+      "rating": {
+        "average": "6.1",
+        "reviews": "4635"
+      },
+      "room": "DOUBLE",
+      "title": "Incredible Granite Sausages"
+    },
+    {
+      "id": "f7d29bc3-7e8b-47ce-83a4-b5923afc40c0",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "distinctio"
+      },
+      "demand": "LOW",
+      "insights": [
+        {
+          "text": "Quasi et occaecati recusandae at porro.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Voluptatum deleniti labore enim eum mollitia et qui.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Repellat suscipit ut commodi facere porro impedit sunt non et.",
+          "tag": null,
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "0986 Czekaj Wall, 90-894, Katar",
+        "centre": "2.6 km"
+      },
+      "price": {
+        "amount": "9600",
+        "breakfast": false,
+        "currency": "؋"
+      },
+      "rating": {
+        "average": "5.8",
+        "reviews": "3494"
+      },
+      "room": "FAMILY",
+      "title": "Generic Frozen Car"
+    },
+    {
+      "id": "f5192290-4022-4fd4-9060-ee70794297a0",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "neque"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Et id dolorem corrupti totam aspernatur.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Ratione ut qui optio voluptatem iste maxime necessitatibus.",
+          "tag": "ratione omnis et",
+          "highlights": false
+        },
+        {
+          "text": "Possimus et nisi.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Labore aperiam iste iste consequatur voluptate dolores nobis.",
+          "tag": "est eligendi animi",
+          "highlights": true
+        },
+        {
+          "text": "Rerum soluta doloribus magnam est nobis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Tempora quas quos nobis tenetur et tempore.",
+          "tag": "et qui sunt",
+          "highlights": true
+        },
+        {
+          "text": "Rerum hic mollitia velit id qui est repellat in.",
+          "tag": "accusamus dignissimos quia",
+          "highlights": false
+        },
+        {
+          "text": "Non a nesciunt.",
+          "tag": "voluptas nostrum quisquam",
+          "highlights": false
+        },
+        {
+          "text": "Aut ipsa illum sed voluptatem consequatur.",
+          "tag": "sed mollitia libero",
+          "highlights": false
+        },
+        {
+          "text": "Nam occaecati alias et libero autem ut dolor nam.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Libero et voluptatem.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "A hic quis asperiores ullam voluptatibus.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Accusantium atque vitae facilis in itaque dignissimos quae.",
+          "tag": "rem expedita facere",
+          "highlights": false
+        },
+        {
+          "text": "Mollitia quibusdam ipsa numquam ipsa dicta autem laborum.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Tempora qui ut consequatur.",
+          "tag": "rerum tempora doloremque",
+          "highlights": true
+        },
+        {
+          "text": "Vel non omnis quia voluptate veniam.",
+          "tag": "quia possimus est",
+          "highlights": false
+        },
+        {
+          "text": "Quia et et in et repellendus rerum blanditiis qui.",
+          "tag": "laboriosam eaque reprehenderit",
+          "highlights": true
+        },
+        {
+          "text": "Maiores quia quos accusantium harum illo.",
+          "tag": "similique omnis asperiores",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "615 — Prairie, 65-726, Argentyna",
+        "centre": "2.1 km"
+      },
+      "price": {
+        "amount": "1440",
+        "breakfast": false,
+        "currency": "$U"
+      },
+      "rating": {
+        "average": "5.5",
+        "reviews": "1808"
+      },
+      "room": "FAMILY",
+      "title": "Unbranded Granite Bacon"
+    },
+    {
+      "id": "d7432aff-8715-4dcd-a623-c48ff7019009",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "laborum"
+      },
+      "demand": "HIGH",
+      "insights": [
+        {
+          "text": "Et aspernatur necessitatibus incidunt eius et aut.",
+          "tag": "repellat rerum labore",
+          "highlights": true
+        },
+        {
+          "text": "Quo inventore iure saepe corrupti minima.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Exercitationem quidem nihil maxime.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quod beatae vel dolorem esse quibusdam nihil.",
+          "tag": "dignissimos aut saepe",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "44901 Amanda Fork, 54-897, Wyspy Świętego Tomasza i Książęca",
+        "centre": "2.6 km"
+      },
+      "price": {
+        "amount": "3020",
+        "breakfast": false,
+        "currency": "KM"
+      },
+      "rating": {
+        "average": "4.9",
+        "reviews": "6831"
+      },
+      "room": "FAMILY",
+      "title": "Gorgeous Soft Car"
+    },
+    {
+      "id": "b3028395-a4c1-47b4-bd44-fe3f84907dca",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "enim"
+      },
+      "demand": "HIGH",
+      "insights": [
+        {
+          "text": "Quisquam sed ut enim aut sit quia et velit.",
+          "tag": "mollitia aspernatur dignissimos",
+          "highlights": true
+        },
+        {
+          "text": "Expedita quidem ut dolorum.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Deserunt et perferendis soluta pariatur voluptates officia ipsam et.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Sed eum delectus officiis quam nihil laboriosam quisquam et laboriosam.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quos dolor voluptatem quo placeat illo.",
+          "tag": "fugit ratione soluta",
+          "highlights": true
+        },
+        {
+          "text": "Tempore doloribus incidunt ipsa ut.",
+          "tag": "voluptas cumque earum",
+          "highlights": false
+        },
+        {
+          "text": "Atque sint recusandae ad magni unde quasi.",
+          "tag": "rerum quia aut",
+          "highlights": true
+        },
+        {
+          "text": "In praesentium rerum consequatur ratione veniam sunt.",
+          "tag": "asperiores omnis cupiditate",
+          "highlights": false
+        },
+        {
+          "text": "Perspiciatis non accusamus voluptas ea similique explicabo.",
+          "tag": "animi rerum illo",
+          "highlights": false
+        },
+        {
+          "text": "Excepturi adipisci deleniti amet velit voluptatem inventore dicta temporibus vel.",
+          "tag": "qui optio minus",
+          "highlights": false
+        },
+        {
+          "text": "Repellendus minus ducimus dignissimos quibusdam vel amet est nihil.",
+          "tag": "quae enim nesciunt",
+          "highlights": true
+        },
+        {
+          "text": "Perspiciatis quis enim quo error at neque maiores.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Repellat quae quibusdam accusantium commodi sunt repellendus est.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Non quidem ipsa unde esse libero.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Non deserunt facere voluptas repellat placeat quasi aspernatur quaerat.",
+          "tag": "architecto exercitationem qui",
+          "highlights": true
+        },
+        {
+          "text": "Itaque neque veritatis eum aspernatur.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Architecto in delectus modi voluptate.",
+          "tag": "minus placeat voluptas",
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "62010 Rak Cape, 83-615, Austria",
+        "centre": "1 km"
+      },
+      "price": {
+        "amount": "730",
+        "breakfast": true,
+        "currency": "₨"
+      },
+      "rating": {
+        "average": "3.4",
+        "reviews": "3705"
+      },
+      "room": "DOUBLE",
+      "title": "Unbranded Rubber Chair"
+    },
+    {
+      "id": "3a1e0ca9-d678-4984-aa45-7c9147a8bcd9",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "officia"
+      },
+      "demand": "HIGH",
+      "insights": [
+        {
+          "text": "Molestias libero beatae qui.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Aut eos voluptatem necessitatibus corrupti pariatur enim perspiciatis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Possimus non natus.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Aliquid et libero sint earum natus.",
+          "tag": "corrupti natus aperiam",
+          "highlights": true
+        },
+        {
+          "text": "Ipsa similique ducimus aliquid facere maiores doloremque unde dolorem aut.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Et omnis iure error voluptatibus eos ducimus.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quia nulla vero tenetur perferendis blanditiis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Fugiat hic itaque quis modi harum doloremque pariatur et.",
+          "tag": "commodi aliquam at",
+          "highlights": true
+        },
+        {
+          "text": "Sit aliquam enim error perspiciatis vel animi sed quaerat.",
+          "tag": "occaecati quia hic",
+          "highlights": true
+        },
+        {
+          "text": "Tenetur facere inventore.",
+          "tag": "deleniti odit aut",
+          "highlights": false
+        },
+        {
+          "text": "Magni assumenda ab.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Non perferendis dolores non ut est ducimus corrupti necessitatibus.",
+          "tag": "magni et voluptas",
+          "highlights": false
+        }
+      ],
+      "location": {
+        "address": "90109 Rebeka Bridge, 49-775, Dżibuti",
+        "centre": "1.8 km"
+      },
+      "price": {
+        "amount": "2930",
+        "breakfast": false,
+        "currency": "₨"
+      },
+      "rating": {
+        "average": "2.8",
+        "reviews": "5777"
+      },
+      "room": "DOUBLE",
+      "title": "Generic Cotton Shoes"
+    },
+    {
+      "id": "4541dc41-97db-4e75-9ab0-531f53f4f553",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "dolores"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Non debitis sed.",
+          "tag": "provident aut et",
+          "highlights": false
+        },
+        {
+          "text": "Occaecati quia aut.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Itaque aut laudantium reprehenderit dolorem possimus.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Quia deleniti et magni non repellendus animi voluptatem.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Deserunt rerum numquam dolor eius sed perferendis facilis.",
+          "tag": "vero totam pariatur",
+          "highlights": false
+        },
+        {
+          "text": "Porro et architecto quos.",
+          "tag": "esse exercitationem quis",
+          "highlights": true
+        },
+        {
+          "text": "Qui maiores ratione voluptas nesciunt.",
+          "tag": "est quidem delectus",
+          "highlights": true
+        },
+        {
+          "text": "Nesciunt facere qui illo sapiente at autem similique est.",
+          "tag": "exercitationem in blanditiis",
+          "highlights": false
+        },
+        {
+          "text": "Et suscipit ex excepturi animi at aut.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Dignissimos dolor id ut doloremque deleniti possimus ab rerum et.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Amet mollitia rerum.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Impedit sed et illo quibusdam dolor magni laudantium.",
+          "tag": "corrupti doloribus eum",
+          "highlights": true
+        },
+        {
+          "text": "Odit in amet nemo officiis optio at dolor ipsum.",
+          "tag": "sed qui nihil",
+          "highlights": false
+        },
+        {
+          "text": "Dolorum enim saepe temporibus rerum.",
+          "tag": "aut et ut",
+          "highlights": false
+        },
+        {
+          "text": "Officia ut id reprehenderit dolore ut ipsa earum aut dolores.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Eaque voluptatibus voluptatem illo perferendis ratione accusantium accusantium doloremque.",
+          "tag": "nisi repudiandae debitis",
+          "highlights": false
+        },
+        {
+          "text": "Qui odit vitae id quo.",
+          "tag": "nostrum ab rerum",
+          "highlights": true
+        },
+        {
+          "text": "Accusantium facilis et aut dolorem pariatur aut.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Quo illo et officia officiis minus.",
+          "tag": "voluptas placeat atque",
+          "highlights": true
+        },
+        {
+          "text": "Similique suscipit non necessitatibus quis ut quaerat.",
+          "tag": "qui nam magnam",
+          "highlights": false
+        },
+        {
+          "text": "Expedita unde sed quisquam et et molestiae.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Perspiciatis sint qui eligendi velit quas unde.",
+          "tag": "nemo aut non",
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "677 Hugo Forge, 94-397, Liberia",
+        "centre": "2.9 km"
+      },
+      "price": {
+        "amount": "8940",
+        "breakfast": true,
+        "currency": "лв"
+      },
+      "rating": {
+        "average": "2.3",
+        "reviews": "8767"
+      },
+      "room": "DOUBLE",
+      "title": "Intelligent Frozen Shoes"
+    },
+    {
+      "id": "9076a542-55a0-466a-a9b6-64776c49e508",
+      "cover": {
+        "url": "http://lorempixel.com/640/480/city",
+        "tag": "aut"
+      },
+      "demand": "MEDIUM",
+      "insights": [
+        {
+          "text": "Ratione ipsam qui perferendis.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ab illum facere quis dolore ratione rerum dicta.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Nemo quaerat quos dolorem ea unde quis voluptas.",
+          "tag": "a soluta sapiente",
+          "highlights": false
+        },
+        {
+          "text": "Molestiae quasi aut iste iste dignissimos molestiae consequatur odit.",
+          "tag": "aut autem ut",
+          "highlights": true
+        },
+        {
+          "text": "Tenetur voluptas repellat voluptatem et harum eos explicabo.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Ut odio natus tempora.",
+          "tag": "modi ut ea",
+          "highlights": false
+        },
+        {
+          "text": "Aut et maiores commodi minus quis.",
+          "tag": "voluptatem consectetur quia",
+          "highlights": true
+        },
+        {
+          "text": "Odit minus cumque at possimus aut.",
+          "tag": null,
+          "highlights": true
+        },
+        {
+          "text": "Eius eveniet id quia deleniti eveniet totam adipisci nam.",
+          "tag": "ex et saepe",
+          "highlights": true
+        },
+        {
+          "text": "Quisquam maiores in sit sapiente nostrum qui ipsa natus sed.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Aut nihil beatae illo.",
+          "tag": "nulla minima porro",
+          "highlights": true
+        },
+        {
+          "text": "Pariatur at culpa a sapiente qui exercitationem perferendis qui natus.",
+          "tag": "ut et adipisci",
+          "highlights": true
+        },
+        {
+          "text": "Nemo expedita deserunt nemo aliquam qui.",
+          "tag": null,
+          "highlights": false
+        },
+        {
+          "text": "Fuga quas beatae voluptatem provident.",
+          "tag": "iste et repellendus",
+          "highlights": true
+        },
+        {
+          "text": "Quos eum asperiores aliquam qui.",
+          "tag": "accusamus quaerat architecto",
+          "highlights": false
+        },
+        {
+          "text": "Qui veritatis molestias ut modi vel facere omnis repellendus aut.",
+          "tag": null,
+          "highlights": true
+        }
+      ],
+      "location": {
+        "address": "81323 Eudokia Shores, 12-123, 322 575",
+        "centre": "1.9 km"
+      },
+      "price": {
+        "amount": "6920",
+        "breakfast": false,
+        "currency": "лв"
+      },
+      "rating": {
+        "average": "1.5",
+        "reviews": "7851"
+      },
+      "room": "DOUBLE",
+      "title": "Tasty Fresh Chair"
+    }
+  ]
+}
