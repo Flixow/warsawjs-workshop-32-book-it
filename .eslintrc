@@ -1,0 +1,6 @@
+{
+  "extends": "@chimeraprime/eslint-config-chimera-prime",
+  "rules": {
+    "import/order": 0
+  }
+}
