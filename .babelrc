@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          // "actions": "./actions",
+          "shared": "./shared",
+          "data": "./data",
+          "utils": "./utils",
+        }
+      }
+    ],
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": false
+      }
+    ]
+  ],
+  "presets": [
+    "next/babel"
+  ]
+}
