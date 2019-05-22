@@ -30,3 +30,4 @@
 
 ## Steps
 ### Basic components
+* `MainViewHandler` used on Hotels page
