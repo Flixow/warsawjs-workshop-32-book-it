@@ -4,8 +4,12 @@ import {
 
 import fetch from 'data/core/fetch';
 
-export const fetchHotels = () => dispatch => {
-  const promise = fetch('/hotels');
+export const fetchHotels = ({ query }) => dispatch => {
+  const promise = fetch('/hotels', {
+    params: {
+      title: query.searched_phrase,
+    },
+  });
 
   return dispatch({
     type: HOTELS_GET,

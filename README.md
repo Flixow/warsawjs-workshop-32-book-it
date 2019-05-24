@@ -30,9 +30,11 @@
 
 ## Steps
 ### Basic components
-* Fix link to the antd css file
+* Fix link to the antd css file in `_document`
 * `MainViewHandler` used on Hotels page
 * Create action for fetch hotels data
 * Create promises middleware
 * Create reducer for hotels
 * Fix store.js to handle state initialized on the server
+* Add SearchField to manipulate query params
+* Filter items with query params

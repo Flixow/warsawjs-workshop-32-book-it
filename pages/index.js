@@ -35,8 +35,8 @@ const Home = () => (
       <div className="row">
         <Link href="/hotels">
           <a className="card">
-            <h3>Create Next App &rarr;</h3>
-            <p>Was this tool helpful? Let us know how we can improve it</p>
+            <h3>Hotels</h3>
+            <p>Find the best hotel for your trip!</p>
           </a>
         </Link></div>
     </div>

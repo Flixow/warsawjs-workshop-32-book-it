@@ -21,8 +21,8 @@ const SearchForm = React.memo(({ className, router }) => {
       searched_phrase: value,
     });
 
-    router.push(newLocation, newLocation, { shallow: true });
-  }, 500);
+    router.push(newLocation, newLocation);
+  }, 1000);
 
   return (
     <Input

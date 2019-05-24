@@ -8,7 +8,7 @@ const HotelsList = ({ items }) => {
         xs: 1,
         sm: 2,
         md: 4,
-        lg: 4,
+        lg: 2,
       }}
       dataSource={items}
       renderItem={item => (

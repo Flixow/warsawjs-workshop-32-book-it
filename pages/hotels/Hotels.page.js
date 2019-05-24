@@ -1,6 +1,5 @@
 import { connect } from 'react-redux';
-import Link from 'next/link';
-import { Row, Col } from 'antd';
+import { Spin, Row, Col } from 'antd';
 
 import { MainViewHandler } from 'shared/hocs';
 
@@ -9,17 +8,18 @@ import { HotelsList } from './components';
 
 import { fetchHotels } from 'data/actions/hotels.actions';
 
-let Hotels = ({ items }) => {
+let Hotels = ({ items, isLoading }) => {
   return (
     <Row gutter={16}>
       <Col span={8}>
         <SearchForm />
       </Col>
       <Col span={16}>
-        <Link href="/hotels?test=abc">
-          <a>here</a>
-        </Link>{' '}
-        <HotelsList items={items} />
+        {isLoading ? (
+          <Spin />
+        ) : (
+          <HotelsList items={items} />
+        )}
       </Col>
 
     </Row>

@@ -29,21 +29,26 @@ function MainViewHandlerHOC(options = {}) {
 
       render() {
         const { state } = this.props;
-        // return <WrappedComponent {...this.props} />;
+        return (
+          <WrappedComponent
+            isLoading={state === LOADING_STATES.LOADING}
+            {...this.props}
+          />
+        );
 
-        switch (state) {
-          case LOADING_STATES.LOADING:
-            return <Spin size="large" />;
-          case LOADING_STATES.LOADED:
-            return <WrappedComponent {...this.props} />;
-          case LOADING_STATES.FAILED:
-          default:
-            return (
-              <h1>
-                Ups, something went wrong
-              </h1>
-            );
-        }
+        // switch (state) {
+        //   case LOADING_STATES.LOADING:
+        //     return <Spin size="large" />;
+        //   case LOADING_STATES.LOADED:
+        //     return <WrappedComponent {...this.props} />;
+        //   case LOADING_STATES.FAILED:
+        //   default:
+        //     return (
+        //       <h1>
+        //         Ups, something went wrong
+        //       </h1>
+        //     );
+        // }
       }
     };
   };
