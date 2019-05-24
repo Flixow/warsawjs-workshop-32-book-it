@@ -24,13 +24,11 @@ function MainViewHandlerHOC(options = {}) {
             : store.dispatch(options.fetchData({ query }));
         }
 
-        console.log('TCL: extends -> getInitialProps -> query', query);
         return { ...pageProps };
       }
 
       render() {
         const { state } = this.props;
-
         // return <WrappedComponent {...this.props} />;
 
         switch (state) {

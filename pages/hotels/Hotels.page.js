@@ -1,21 +1,28 @@
-import { Fragment } from 'react';
 import { connect } from 'react-redux';
 import Link from 'next/link';
+import { Row, Col } from 'antd';
 
 import { MainViewHandler } from 'shared/hocs';
 
+import { SearchForm } from 'shared/components';
 import { HotelsList } from './components';
 
 import { fetchHotels } from 'data/actions/hotels.actions';
 
 let Hotels = ({ items }) => {
   return (
-    <Fragment>
-      <Link href="/hotels?test=abc">
-        <a>here</a>
-      </Link>{' '}
-      <HotelsList items={items} />
-    </Fragment>
+    <Row gutter={16}>
+      <Col span={8}>
+        <SearchForm />
+      </Col>
+      <Col span={16}>
+        <Link href="/hotels?test=abc">
+          <a>here</a>
+        </Link>{' '}
+        <HotelsList items={items} />
+      </Col>
+
+    </Row>
   );
 };
 
