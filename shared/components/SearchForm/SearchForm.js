@@ -4,32 +4,34 @@ import cx from 'classnames';
 import { debounce } from 'lodash';
 import { Input } from 'antd';
 
+import { Router } from 'routes';
+
 import { addQuery } from 'utils/url';
 
+const changeQuery = debounce(value => {
+  const newLocation = addQuery(Router, {
+    searched_phrase: value,
+  });
+
+  Router.push(newLocation, newLocation);
+}, 500);
+
 const SearchForm = React.memo(({ className, router }) => {
-  const [value, setValue] = useState(router.query.searched_phrase);
+  const [search, setSearch] = useState(router.query.searched_phrase);
 
   const handleChange = useCallback(e => {
     const { value } = e.target;
 
+    setSearch(value);
     changeQuery(value);
-    setValue(value);
   });
-
-  const changeQuery = debounce(value => {
-    const newLocation = addQuery(router, {
-      searched_phrase: value,
-    });
-
-    router.push(newLocation, newLocation);
-  }, 1000);
 
   return (
     <Input
       className={cx(className)}
       onChange={handleChange}
       placeholder="Search..."
-      value={value}
+      value={search}
     />
   );
 });
