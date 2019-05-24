@@ -5,6 +5,8 @@ import { MainViewHandler } from 'shared/hocs';
 
 import { HotelsList } from './components';
 
+import { fetchHotels } from 'data/actions/hotels.actions';
+
 const Hotels = ({}) => {
   return (
     <Fragment>
@@ -20,4 +22,6 @@ Hotels.getInitialProps = () => {
   console.log('Hotels.getInitialProps');
 };
 
-export default MainViewHandler()(Hotels);
+export default MainViewHandler({
+  fetchData: fetchHotels,
+})(Hotels);

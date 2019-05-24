@@ -1,3 +1,5 @@
+export * from './hotels.const';
+
 export const LOADING_STATES = {
   INITIAL: 'INITIAL',
   LOADING: 'LOADING',

@@ -17,7 +17,7 @@ function MainViewHandlerHOC(options = {}) {
           window.__NEXT_DATA__.query = query;
         }
         if (typeof options.fetchData === 'function') {
-          store.dispatch({ type: options.fetchData, params: query });
+          store.dispatch(options.fetchData({ query }));
         }
 
         return { ...pageProps };
