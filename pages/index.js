@@ -1,5 +1,6 @@
 import React from 'react';
-import Link from 'next/link';
+
+import { Link } from 'routes';
 
 const Home = () => (
   <div>

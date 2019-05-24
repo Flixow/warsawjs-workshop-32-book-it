@@ -1,5 +1,7 @@
 import React from 'react';
-import Link from 'next/link';
+import { Icon } from 'antd';
+
+import { Router, Link } from 'routes';
 
 const links = [
   { href: 'https://github.com/segmentio/create-next-app', label: 'Github' },
@@ -11,6 +13,11 @@ const links = [
 const Nav = () => (
   <nav>
     <ul>
+      <li>
+        <div onClick={Router.back}>
+          <a><Icon type="arrow-left" /> Go back</a>
+        </div>
+      </li>
       <li>
         <Link prefetch href="/">
           <a>Home</a>
