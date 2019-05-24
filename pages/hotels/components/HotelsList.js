@@ -37,7 +37,7 @@ const HotelsList = ({ items }) => {
             <Divider />
             <Statistic title="Rating" value={item.rating.average} suffix=" / 10" />
             <Divider />
-            <Statistic title="Price" value={item.price.amount} suffix=" / 10" />
+            <Statistic title="Price" value={item.price.amount} suffix={item.price.currency} />
           </Card>
         </List.Item>
       )}
