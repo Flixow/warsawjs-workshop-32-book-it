@@ -7,8 +7,10 @@ import { LOADING_STATES } from 'data/constants';
 function MainViewHandlerHOC(options = {}) {
   return function HOC(WrappedComponent) {
     return class extends Component {
-      static async getInitialProps({ ctx }) {
-        const pageProps = await WrappedComponent.getInitialProps(ctx);
+      static async getInitialProps(ctx) {
+        const pageProps = WrappedComponent.getInitialProps
+          ? await WrappedComponent.getInitialProps(ctx)
+          : {};
         const { query, store, isServer } = ctx;
         const prevQuery = isServer ? {} : window.__NEXT_DATA__.query;
         const hasQueryChanged = !isEqual(query, prevQuery);
@@ -17,9 +19,12 @@ function MainViewHandlerHOC(options = {}) {
           window.__NEXT_DATA__.query = query;
         }
         if (typeof options.fetchData === 'function') {
-          store.dispatch(options.fetchData({ query }));
+          isServer
+            ? await store.dispatch(options.fetchData({ query }))
+            : store.dispatch(options.fetchData({ query }));
         }
 
+        console.log('TCL: extends -> getInitialProps -> query', query);
         return { ...pageProps };
       }
 

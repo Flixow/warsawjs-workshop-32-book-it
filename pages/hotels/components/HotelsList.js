@@ -1,8 +1,6 @@
 import { List, Card, Icon, Statistic, Divider } from 'antd';
 
-import data from '../../../db.json';
-
-const HotelsList = ({  }) => {
+const HotelsList = ({ items }) => {
   return (
     <List
       grid={{
@@ -12,7 +10,7 @@ const HotelsList = ({  }) => {
         md: 4,
         lg: 4,
       }}
-      dataSource={data.hotels}
+      dataSource={items}
       renderItem={item => (
         <List.Item>
           <Card

@@ -30,4 +30,9 @@
 
 ## Steps
 ### Basic components
+* Fix link to the antd css file
 * `MainViewHandler` used on Hotels page
+* Create action for fetch hotels data
+* Create promises middleware
+* Create reducer for hotels
+* Fix store.js to handle state initialized on the server

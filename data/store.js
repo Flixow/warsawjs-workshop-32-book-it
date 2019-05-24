@@ -1,12 +1,15 @@
 import { createStore, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 
+import promiseMiddleware from 'data/middlewares/promises';
+
 import rootReducer from 'data/reducers';
 
-function configureStore() {
+function configureStore(initialState) {
   const enhancers = [];
   const middlewares = [
     thunk,
+    promiseMiddleware,
   ];
 
   if (process.env.NODE_ENV !== 'production') {
@@ -21,7 +24,7 @@ function configureStore() {
     ...enhancers
   );
 
-  const store = createStore(rootReducer, {}, composedEnhancers);
+  const store = createStore(rootReducer, initialState, composedEnhancers);
 
   return store;
 }
