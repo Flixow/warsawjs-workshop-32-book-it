@@ -1,6 +1,7 @@
 import { Fragment } from 'react';
 import { connect } from 'react-redux';
 import { Spin, Row, Col } from 'antd';
+import { withNamespaces } from 'i18n';
 
 import { MainViewHandler } from 'shared/hocs';
 
@@ -10,7 +11,7 @@ import { HotelsList } from './components';
 import { fetchHotels } from 'data/actions/hotels.actions';
 import { averageRatingSelector, averagePriceSelector } from 'data/selectors/hotels.selectors';
 
-let Hotels = ({ items, averageRating, averagePrice, isLoading }) => {
+let Hotels = ({ items, averageRating, averagePrice, isLoading, t }) => {
   return (
     <Row gutter={16}>
       <Col span={8}>
@@ -21,9 +22,9 @@ let Hotels = ({ items, averageRating, averagePrice, isLoading }) => {
           <Spin />
         ) : (
           <Fragment>
-            <h1>{items.length} hotels</h1>
-            <h1>Average Rating: {averageRating}</h1>
-            <h1>Average Price: {averagePrice}</h1>
+            <h1>{items.length} {t('hotels')}</h1>
+            <h1>{t('Average Rating')}: {averageRating}</h1>
+            <h1>{t('Average Price')}: {averagePrice}</h1>
             <HotelsList items={items} />
           </Fragment>
         )}
@@ -48,5 +49,6 @@ Hotels = connect(state => ({
   averagePrice: averagePriceSelector(state),
 }))(Hotels);
 
+Hotels = withNamespaces()(Hotels);
 
 export default Hotels;

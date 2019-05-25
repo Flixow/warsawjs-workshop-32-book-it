@@ -48,3 +48,9 @@
 * Dispatch mocked sign in action
 * Create profile page with mocked 'update name' and 'update age' buttons
 * Use selector to display user name in the nav
+
+### i18n
+* Install next-i18next version 0.37.0
+* Create i18n. configuration fil
+* Use next-i18next/middleware and add missingKeyHandler using multer to support formData
+

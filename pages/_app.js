@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 import withRedux from 'next-redux-wrapper';
 import NProgress from 'nprogress';
 import Router from 'next/router';
+import { appWithTranslation } from 'i18n';
 
 import getConfig from 'next/config';
 const { publicRuntimeConfig } = getConfig();
@@ -44,5 +45,7 @@ class MyApp extends App {
     );
   }
 }
+
+MyApp = appWithTranslation(MyApp);
 
 export default withRedux(configureStore)(MyApp);

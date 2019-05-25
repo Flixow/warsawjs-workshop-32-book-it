@@ -9,6 +9,7 @@
           "data": "./data",
           "utils": "./utils",
           "routes": "./routes",
+          "i18n": "./i18n.js",
         }
       }
     ],
