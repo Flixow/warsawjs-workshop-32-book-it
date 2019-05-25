@@ -53,3 +53,7 @@
 * Create i18n. configuration fil
 * Use next-i18next/middleware and add missingKeyHandler using multer to support formData
 
+### Notifications middleware
+* Create AppToast function to open notification
+* Create middleware to handle notifications with redux actions
+* Use sample notification on the fetchProfile action

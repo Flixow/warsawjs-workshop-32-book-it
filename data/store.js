@@ -2,6 +2,7 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 
 import promiseMiddleware from 'data/middlewares/promises';
+import notificationMiddleware from 'data/middlewares/notifications';
 
 import rootReducer from 'data/reducers';
 
@@ -10,6 +11,7 @@ function configureStore(initialState) {
   const middlewares = [
     thunk,
     promiseMiddleware,
+    notificationMiddleware,
   ];
 
   if (process.env.NODE_ENV !== 'production') {

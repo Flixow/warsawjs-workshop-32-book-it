@@ -12,6 +12,8 @@ export const getProfile = () => dispatch => {
       age: 28,
       email: 'office@myHotel.com',
     },
+    showToast: true,
+    successToast: 'You are logged in!',
   });
 };
 
