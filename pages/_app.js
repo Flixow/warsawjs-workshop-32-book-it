@@ -28,8 +28,8 @@ class MyApp extends App {
 
     return { pageProps };
   }
+
   render() {
-    console.log(Router);
     const { Component, pageProps, store } = this.props;
     return (
       <Container>
