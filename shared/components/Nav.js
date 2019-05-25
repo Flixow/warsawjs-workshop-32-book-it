@@ -1,7 +1,8 @@
-import React from 'react';
 import { Icon } from 'antd';
 
 import { Router, Link } from 'routes';
+
+import ProfileNavSection from './ProfileNavSection';
 
 const links = [
   { href: 'https://github.com/segmentio/create-next-app', label: 'Github' },
@@ -31,6 +32,7 @@ const Nav = () => (
             </Link>
           </li>
         ))}
+        <ProfileNavSection />
       </ul>
     </ul>
 

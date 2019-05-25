@@ -39,7 +39,14 @@ const Home = () => (
             <h3>Hotels</h3>
             <p>Find the best hotel for your trip!</p>
           </a>
-        </Link></div>
+        </Link>
+        <Link href="/profile">
+          <a className="card">
+            <h3>Profile</h3>
+            <p>Update profile to see reselect power!</p>
+          </a>
+        </Link>
+      </div>
     </div>
 
     <style jsx>{`

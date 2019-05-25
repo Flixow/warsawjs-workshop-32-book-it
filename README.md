@@ -41,3 +41,10 @@
 #### Single item
 * Create custom routing
 * Fetch and display single hotel
+
+### Selectors
+* Create selectors for average rating and price
+* Display user name in the Nav with `ProfileNavSection` component without selector
+* Dispatch mocked sign in action
+* Create profile page with mocked 'update name' and 'update age' buttons
+* Use selector to display user name in the nav
