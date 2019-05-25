@@ -7,7 +7,7 @@ import fetch from 'data/core/fetch';
 export const fetchHotels = ({ query }) => dispatch => {
   const promise = fetch('/hotels', {
     params: {
-      title: query.searched_phrase,
+      q: query.searched_phrase,
     },
   });
 
